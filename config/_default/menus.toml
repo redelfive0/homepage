@@ -1,0 +1,20 @@
+[[main]]
+  name = 'About'
+  pageRef = 'about'
+  weight = 10
+
+[[main]]
+  name = 'Posts'
+  pageRef = 'posts'
+  weight = 20
+
+[[main]]
+  name = 'dn42'
+  url = 'https://dn42.50335033.xyz'
+  weight = 30
+
+[[main]]
+  identifier = 'github'
+  pre = 'github'
+  url = 'https://github.com/redelfive0'
+  weight = 40

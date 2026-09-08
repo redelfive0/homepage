@@ -1,0 +1,14 @@
+colorScheme = 'fire'
+defaultBackgroundImage = 'images/background.jpg'
+backgroundCanvas = true
+enableA11y = true
+enableCodeCopy = true
+enableSearch = true
+
+[header]
+layout = 'floating'
+
+[homepage]
+cardView = true
+layoutBackgroundBlur = true
+showRecent = true

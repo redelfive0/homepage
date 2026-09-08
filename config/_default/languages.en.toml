@@ -1,0 +1,11 @@
+title = 'Red Earth'
+
+[params.author]
+name = 'Red Earth'
+headline = 'Fly in the sky!'
+bio = 'Just an ordinary person'
+links = [
+    { email = "mailto:redearth@50335033.xyz" },
+    { github = "https://github.com/redelfive0" },
+    { telegram = "https://t.me/redearth5033" }
+]
